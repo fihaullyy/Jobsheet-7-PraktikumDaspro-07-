@@ -25,6 +25,6 @@ public class siAkadFor07 {
         System.out.println("Nilai terendah: " + terendah);
         System.out.println("Total Lulus: " + lulus);
         System.out.println("Total Tidak Lulus: " + tdklulus);
-    }
-    
+        sc.close();
+    } 
 }
